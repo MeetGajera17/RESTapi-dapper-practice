@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DapperDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{777F7F36-A7A9-45C9-A60E-DE0B284A21DA}|DapperDemoApi\\DapperDemoApi.csproj|e:\\dapperdemo\\dapperdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777F7F36-A7A9-45C9-A60E-DE0B284A21DA}|DapperDemoApi\\DapperDemoApi.csproj|solutionrelative:dapperdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777F7F36-A7A9-45C9-A60E-DE0B284A21DA}|DapperDemoApi\\DapperDemoApi.csproj|e:\\dapperdemo\\dapperdemoapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777F7F36-A7A9-45C9-A60E-DE0B284A21DA}|DapperDemoApi\\DapperDemoApi.csproj|solutionrelative:dapperdemoapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD98583-F6C4-4B1D-B2A3-465A50AA9A5E}|DapperDemoData\\DapperDemoData.csproj|e:\\dapperdemo\\dapperdemodata\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD98583-F6C4-4B1D-B2A3-465A50AA9A5E}|DapperDemoData\\DapperDemoData.csproj|solutionrelative:dapperdemodata\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\DapperDemo\\DapperDemoApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DapperDemoApi\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\DapperDemo\\DapperDemoApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DapperDemoApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:45:36.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "E:\\DapperDemo\\DapperDemoData\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "DapperDemoData\\Repository\\PersonRepository.cs",
+              "ToolTip": "E:\\DapperDemo\\DapperDemoData\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "DapperDemoData\\Repository\\PersonRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:20:40.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DapperDemo\\DapperDemoApi\\Program.cs",
+              "RelativeDocumentMoniker": "DapperDemoApi\\Program.cs",
+              "ToolTip": "E:\\DapperDemo\\DapperDemoApi\\Program.cs",
+              "RelativeToolTip": "DapperDemoApi\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:26:39.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
